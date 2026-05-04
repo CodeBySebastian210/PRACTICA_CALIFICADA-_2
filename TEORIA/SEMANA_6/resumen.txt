@@ -1,1 +1,46 @@
+1. Concepto de estructuras dinámicas
+Las estructuras de datos dinámicas:
+- Pueden cambiar de tamaño durante la ejecución
+- Permiten una gestión más flexible y eficiente de los datos
+- Son clave para trabajar con grandes volúmenes de información
 
+2. Tipo Abstracto de Datos (TAD)
+Un TAD es:
+- Una descripción de los datos y sus operaciones
+- Se enfoca en el qué hace, no en el cómo se implementa
+Beneficios:
+- Mayor modularidad
+- Facilita la reutilización del código
+- Mejora el mantenimiento del software
+
+3. Elementos clave de un TAD
+- Dominio de valores: posibles valores que puede tener
+- Operaciones: acciones como insertar, eliminar, buscar
+- Especificación formal: definición precisa (matemática/lógica)
+- Implementación: código en un lenguaje de programación
+
+4. Tipos de especificación
+Especificación informal
+- Descripción en lenguaje natural
+- Ejemplo: una pila funciona con la regla LIFO (último en entrar, primero en salir)
+Especificación formal
+- Usa reglas claras y precisas:
+- Precondición: lo que debe cumplirse antes
+- Postcondición: lo que ocurre después
+- Invariante: lo que siempre se mantiene
+
+6. Implementación
+Un TAD se puede implementar usando:
+- Arreglos
+- Listas enlazadas
+La elección depende de:
+- Eficiencia
+- Uso de memoria
+- Necesidades del problema
+
+7. Importancia
+Permiten crear programas más:
+- Flexibles
+- Escalables
+- Organizados
+- Mejoran el rendimiento dependiendo de la estructura elegida
